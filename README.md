@@ -18,7 +18,7 @@ Login into vm
 
 
 
-# Then follow the Step by Step process to achive #
+# Then follow the Step by Step process to achieve #
 
 ## PREREQUISITES 
 
