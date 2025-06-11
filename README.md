@@ -151,7 +151,7 @@ docker run -it --rm \
 Note: You should be inside the container, with a bash prompt like:
 
 ```
-root@container-id:/workspace#
+root@f236353bbc2d-id:/workspace#
 ```
 
 - Verify Terraform and azure cli versions.
