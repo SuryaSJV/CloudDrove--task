@@ -2,11 +2,11 @@
 
 To do this project i have created a VM in azure.
 
-![Image](https://github.com/user-attachments/assets/f72f7aac-5451-4942-9a9d-d04045f930c0)
+![Image](https://github.com/user-attachments/assets/0ba3be82-5c67-4ceb-b25d-6a2de079fb22)
 
 Login into vm 
 
-![Image](https://github.com/user-attachments/assets/c6a0ae03-eee3-4f2d-bb45-5e5314e97f35)
+![Image](https://github.com/user-attachments/assets/6c7d2472-8380-454e-bc3d-6c53477212b9)
 
 
 # Then follow the Step by Step process to achive #
@@ -22,13 +22,13 @@ sudo apt update
 sudo apt install docker.io -y
 ```
 
-![Image](https://github.com/user-attachments/assets/390ee634-ba64-4b8d-a3b4-4b0b89d2ebdb)
+![Image](https://github.com/user-attachments/assets/cadc670e-1f52-4cc6-9b23-6661050569ce)
 
-![Image](https://github.com/user-attachments/assets/5920b413-f77c-4b7f-88b4-14acf6ef8a77)
+![Image](https://github.com/user-attachments/assets/c98aae30-347a-403b-86a6-411e3faf11f2)
 
 ``` docker --version```
 
-![Image](https://github.com/user-attachments/assets/3d4819a4-1e5b-47d8-85d6-6c73c04b7820)
+![Image](https://github.com/user-attachments/assets/3749f353-86d8-4231-84fc-6ac2bf2aa5b7)
 
 ![Image](https://github.com/user-attachments/assets/997e0580-6b74-4ccf-99cc-f6b4dd9f2be1)
 
